@@ -10,7 +10,7 @@ Movie title: {{ movie.title }}
 Movie id: {{ movie.id }}
 <br>
 Write a comment:
-<form action="/movies/{{movie.id}}/addcomment" method="post">
+<form action="/movies/{{ movie.id }}/addcomment" method="post">
 {% csrf_token %}
 Text: <input type="text" name="comment"><br>
 <input type="submit" value="Add">

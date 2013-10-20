@@ -26,4 +26,5 @@ def movie(request, movie_id):
     return render(request, 'movies/movie.html', context)
 
 def add_comment(request, movie_id):
+ 	print "here"
     	return HttpResponse("adding comment to movie " + movie_id + ":<br>" + request.POST['comment'])
