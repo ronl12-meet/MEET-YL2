@@ -1,0 +1,2 @@
+Good job finishing the project. I did not get a demo video from you so I did not get a chance to see your project live other than what you showed me. I would have loved to see you taking more initiative in solving problems you had along the way (and using Google or troubleshooting or double-checking your work in creative ways), or going further with your project. There are interesting ways to implement Morse code using trees, like this: http://www.learnmorsecode.com/ to get the whole alphabet instead of just 3 letters. Good work.
+
